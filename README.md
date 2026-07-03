@@ -56,14 +56,14 @@
       <td align="center" width="50%">
         <h3>⚔️ ClashOps</h3>
         <p>A comprehensive operations and management tool.</p>
-        <a href="https://github.com/N-B-K-SARMA/ClashOps">
+        <a href="https://github.com/N-B-K-SARMA">
           <img src="https://img.shields.io/badge/Private_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
       <td align="center" width="50%">
         <h3>🌌 Universe RP</h3>
         <p>Advanced roleplay framework and systems.</p>
-        <a href="https://github.com/N-B-K-SARMA/Universe-RP">
+        <a href="https://github.com/N-B-K-SARMA">
           <img src="https://img.shields.io/badge/Private_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
@@ -72,14 +72,14 @@
       <td align="center" width="50%">
         <h3>☁️ Zyphron</h3>
         <p>Premium cloud infrastructure and SaaS solutions.</p>
-        <a href="https://github.com/N-B-K-SARMA/Zyphron">
+        <a href="https://github.com/N-B-K-SARMA">
           <img src="https://img.shields.io/badge/Private_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
       <td align="center" width="50%">
         <h3>🟢 Sarma Code Jagratha</h3>
         <p>Empowering developer communities.</p>
-        <a href="https://github.com/N-B-K-SARMA/Sarma-Code-Jagratha">
+        <a href="https://github.com/N-B-K-SARMA">
           <img src="https://img.shields.io/badge/Private_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
@@ -110,7 +110,7 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=N-B-K-SARMA&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/N-B-K-SARMA">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-B-K-SARMA&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-B-K-SARMA&theme=radical&hide_border=true&background=transparent" alt="GitHub Streak" />
   </a>
   <br><br>
   <a href="https://github.com/N-B-K-SARMA">
