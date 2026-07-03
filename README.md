@@ -52,17 +52,17 @@
 
 <div align="center">
   <a href="https://github.com/N-B-K-SARMA/ClashOps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=ClashOps&theme=radical&show_icons=true" alt="ClashOps" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=N-B-K-SARMA&repo=ClashOps&theme=radical&show_icons=true" alt="ClashOps" />
   </a>
   <a href="https://github.com/N-B-K-SARMA/Universe-RP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Universe-RP&theme=radical&show_icons=true" alt="Universe RP" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Universe-RP&theme=radical&show_icons=true" alt="Universe RP" />
   </a>
   <br>
   <a href="https://github.com/N-B-K-SARMA/Zyphron">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Zyphron&theme=radical&show_icons=true" alt="Zyphron" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Zyphron&theme=radical&show_icons=true" alt="Zyphron" />
   </a>
   <a href="https://github.com/N-B-K-SARMA/Sarma-Code-Jagratha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Sarma-Code-Jagratha&theme=radical&show_icons=true" alt="SCJ" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Sarma-Code-Jagratha&theme=radical&show_icons=true" alt="SCJ" />
   </a>
 </div>
 
@@ -86,14 +86,14 @@
 
 <div align="center">
   <a href="https://github.com/N-B-K-SARMA">
-    <img src="https://github-readme-stats.vercel.app/api?username=N-B-K-SARMA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=N-B-K-SARMA&show_icons=true&theme=radical&hide_border=true&bg_color=90,0a2411,0a1124" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/N-B-K-SARMA">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-B-K-SARMA&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-B-K-SARMA&theme=radical&hide_border=true&background=90,0a2411,0a1124" alt="GitHub Streak" />
   </a>
   <br><br>
-  <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-B-K-SARMA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <a href="https://github.com/N-B-K-SARMA">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=N-B-K-SARMA&layout=compact&theme=radical&hide_border=true&bg_color=90,0a2411,0a1124" alt="Top Languages" />
   </a>
 </div>
 
