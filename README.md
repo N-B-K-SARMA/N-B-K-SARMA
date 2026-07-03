@@ -138,6 +138,10 @@
       <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N-B-K-SARMA/N-B-K-SARMA/output/github-contribution-grid-snake.svg">
     </picture>
   </a>
+  <br><br>
+  <a href="https://github.com/N-B-K-SARMA">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-B-K-SARMA&theme=radical&bg_color=transparent&hide_border=true" alt="Contribution Activity Graph" />
+  </a>
 </div>
 
 <br>
