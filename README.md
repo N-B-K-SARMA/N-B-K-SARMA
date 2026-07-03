@@ -161,7 +161,6 @@ No activity tracked
 ## ⚡ Latest GitHub Activity
 
 <!--START_SECTION:activity-->
-*Latest activity will be displayed here.*
 <!--END_SECTION:activity-->
 
 <br>
