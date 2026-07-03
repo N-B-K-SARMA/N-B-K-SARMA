@@ -145,7 +145,15 @@
 ## 📈 Development Metrics
 
 <!--START_SECTION:waka-->
-*WakaTime metrics will be displayed here.*
+
+```txt
+From: 02 July 2026 - To: 02 July 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <br>
