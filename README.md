@@ -1,5 +1,7 @@
 <div align="center">
-  <img src=".github/images/banner.png" alt="N. Bhaskara Karthikeya Sarma Banner" width="100%">
+  <a href="https://github.com/N-B-K-SARMA">
+    <img src=".github/images/banner.png" alt="N. Bhaskara Karthikeya Sarma Banner" width="100%">
+  </a>
   
   <br><br>
 
@@ -27,13 +29,17 @@
       <td align="center" width="50%">
         <h3>☁️ Zyphron</h3>
         <p><i>Premium Cloud & SaaS Solutions</i></p>
-        <img src="https://img.shields.io/badge/Enterprise-Ready-0070F3?style=for-the-badge&logo=cloud&logoColor=white" />
+        <a href="https://github.com/N-B-K-SARMA">
+          <img src="https://img.shields.io/badge/Enterprise-Ready-0070F3?style=for-the-badge&logo=cloud&logoColor=white" />
+        </a>
         <p>Modern infrastructure, sleek glassmorphism design, and robust backend engineering for the next generation of scalable applications.</p>
       </td>
       <td align="center" width="50%">
         <h3>🟢 Sarma Code Jagratha (SCJ)</h3>
         <p><i>Empowering Developer Communities</i></p>
-        <img src="https://img.shields.io/badge/Open_Source-00FF00?style=for-the-badge&logo=github&logoColor=black" />
+        <a href="https://github.com/N-B-K-SARMA">
+          <img src="https://img.shields.io/badge/Open_Source-00FF00?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
         <p>Cyber education, programming resources, and community-driven open source initiatives with a high-tech edge.</p>
       </td>
     </tr>
@@ -46,17 +52,17 @@
 
 <div align="center">
   <a href="https://github.com/N-B-K-SARMA/ClashOps">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=N-B-K-SARMA&repo=ClashOps&theme=radical&show_icons=true" alt="ClashOps" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=ClashOps&theme=radical&show_icons=true" alt="ClashOps" />
   </a>
   <a href="https://github.com/N-B-K-SARMA/Universe-RP">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=N-B-K-SARMA&repo=Universe-RP&theme=radical&show_icons=true" alt="Universe RP" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Universe-RP&theme=radical&show_icons=true" alt="Universe RP" />
   </a>
   <br>
   <a href="https://github.com/N-B-K-SARMA/Zyphron">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=N-B-K-SARMA&repo=Zyphron&theme=radical&show_icons=true" alt="Zyphron" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Zyphron&theme=radical&show_icons=true" alt="Zyphron" />
   </a>
   <a href="https://github.com/N-B-K-SARMA/Sarma-Code-Jagratha">
-    <img src="https://github-readme-stats.vercel.app/api/pin?username=N-B-K-SARMA&repo=Sarma-Code-Jagratha&theme=radical&show_icons=true" alt="SCJ" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Sarma-Code-Jagratha&theme=radical&show_icons=true" alt="SCJ" />
   </a>
 </div>
 
@@ -65,13 +71,13 @@
 ## ⚙️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,javascript,react,nextjs,html,css&perline=8" />
+  <a href="https://github.com/N-B-K-SARMA"><img src="https://skillicons.dev/icons?i=nodejs,typescript,python,javascript,react,nextjs,html,css&perline=8" /></a>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,linux,ubuntu&perline=8" />
+  <a href="https://github.com/N-B-K-SARMA"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,linux,ubuntu&perline=8" /></a>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite&perline=8" />
+  <a href="https://github.com/N-B-K-SARMA"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite&perline=8" /></a>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,bash,powershell&perline=8" />
+  <a href="https://github.com/N-B-K-SARMA"><img src="https://skillicons.dev/icons?i=git,github,vscode,discord,bash,powershell&perline=8" /></a>
 </div>
 
 <br>
@@ -87,7 +93,7 @@
   </a>
   <br><br>
   <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N-B-K-SARMA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-B-K-SARMA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
   </a>
 </div>
 
@@ -104,11 +110,13 @@
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N-B-K-SARMA/N-B-K-SARMA/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-B-K-SARMA/N-B-K-SARMA/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N-B-K-SARMA/N-B-K-SARMA/output/dist/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://github.com/N-B-K-SARMA">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N-B-K-SARMA/N-B-K-SARMA/output/dist/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-B-K-SARMA/N-B-K-SARMA/output/dist/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N-B-K-SARMA/N-B-K-SARMA/output/dist/github-contribution-grid-snake.svg">
+    </picture>
+  </a>
 </div>
 
 <br>
@@ -163,5 +171,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=N-B-K-SARMA&label=Profile%20Views&color=0070F3&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/N-B-K-SARMA">
+    <img src="https://komarev.com/ghpvc/?username=N-B-K-SARMA&label=Profile%20Views&color=0070F3&style=for-the-badge" alt="Profile Views" />
+  </a>
 </div>
