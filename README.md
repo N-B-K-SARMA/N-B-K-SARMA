@@ -140,7 +140,7 @@
   </a>
   <br><br>
   <a href="https://github.com/N-B-K-SARMA">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-B-K-SARMA&theme=radical&bg_color=transparent&hide_border=true" alt="Contribution Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-B-K-SARMA&bg_color=transparent&color=2ea043&line=2ea043&point=ffffff&hide_border=true" alt="Contribution Activity Graph" />
   </a>
 </div>
 
