@@ -3,9 +3,10 @@
   
   <br><br>
 
-  <a href="https://github.com/N-B-K-SARMA">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0070F3&center=true&vCenter=true&width=800&lines=Co-Founder+%40+Zyphron;Founder+%40+Sarma+Code+Jagratha;Backend+Developer;Cloud+Infrastructure;Discord+Bot+Developer;Cyber+Security+Student;Open+Source+Enthusiast" alt="Typing SVG" />
-  </a>
+  <h3 align="center" style="color: #0070F3;">
+    Co-Founder @ Zyphron • Founder @ Sarma Code Jagratha • Backend Developer<br>
+    Cloud Infrastructure • Discord Bot Developer • Cyber Security Student • Open Source Enthusiast
+  </h3>
 </div>
 
 <br>
@@ -45,17 +46,17 @@
 
 <div align="center">
   <a href="https://github.com/N-B-K-SARMA/ClashOps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=ClashOps&theme=radical&show_icons=true" alt="ClashOps" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=N-B-K-SARMA&repo=ClashOps&theme=radical&show_icons=true" alt="ClashOps" />
   </a>
   <a href="https://github.com/N-B-K-SARMA/Universe-RP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Universe-RP&theme=radical&show_icons=true" alt="Universe RP" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=N-B-K-SARMA&repo=Universe-RP&theme=radical&show_icons=true" alt="Universe RP" />
   </a>
   <br>
   <a href="https://github.com/N-B-K-SARMA/Zyphron">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Zyphron&theme=radical&show_icons=true" alt="Zyphron" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=N-B-K-SARMA&repo=Zyphron&theme=radical&show_icons=true" alt="Zyphron" />
   </a>
   <a href="https://github.com/N-B-K-SARMA/Sarma-Code-Jagratha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Sarma-Code-Jagratha&theme=radical&show_icons=true" alt="SCJ" />
+    <img src="https://github-readme-stats.vercel.app/api/pin?username=N-B-K-SARMA&repo=Sarma-Code-Jagratha&theme=radical&show_icons=true" alt="SCJ" />
   </a>
 </div>
 
@@ -78,10 +79,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N-B-K-SARMA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-B-K-SARMA&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <a href="https://github.com/N-B-K-SARMA">
+    <img src="https://github-readme-stats.vercel.app/api?username=N-B-K-SARMA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/N-B-K-SARMA">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-B-K-SARMA&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-B-K-SARMA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <a href="https://github-readme-stats.vercel.app">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=N-B-K-SARMA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
