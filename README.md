@@ -40,6 +40,13 @@
         <a href="https://github.com/N-B-K-SARMA">
           <img src="https://img.shields.io/badge/Open_Source-00FF00?style=for-the-badge&logo=github&logoColor=black" />
         </a>
+        <br><br>
+        <a href="https://discord.gg/f372esTK3Y">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+        </a>
+        <a href="https://www.youtube.com/@SarmaCodeJagrathaa">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+        </a>
         <p>Cyber education, programming resources, and community-driven open source initiatives with a high-tech edge.</p>
       </td>
     </tr>
