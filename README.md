@@ -99,13 +99,9 @@
 ## ⚙️ Tech Stack
 
 <div align="center">
-  <a href="https://github.com/N-B-K-SARMA"><img src="https://skillicons.dev/icons?i=nodejs,typescript,python,javascript,react,nextjs,html,css&perline=8" /></a>
+  <a href="https://github.com/N-B-K-SARMA"><img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,html,css&perline=7" /></a>
   <br><br>
-  <a href="https://github.com/N-B-K-SARMA"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,linux,ubuntu&perline=8" /></a>
-  <br><br>
-  <a href="https://github.com/N-B-K-SARMA"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite&perline=8" /></a>
-  <br><br>
-  <a href="https://github.com/N-B-K-SARMA"><img src="https://skillicons.dev/icons?i=git,github,vscode,discord,bash,powershell&perline=8" /></a>
+  <a href="https://github.com/N-B-K-SARMA"><img src="https://skillicons.dev/icons?i=c,cpp,linux,aws&perline=7" /></a>
 </div>
 
 <br>
