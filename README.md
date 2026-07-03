@@ -107,14 +107,14 @@
 
 <div align="center">
   <a href="https://github.com/N-B-K-SARMA">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=N-B-K-SARMA&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=N-B-K-SARMA&show_icons=true&theme=dark&title_color=2ea043&text_color=ffffff&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/N-B-K-SARMA">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-B-K-SARMA&theme=radical&hide_border=true&background=transparent" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-B-K-SARMA&theme=dark&ring=2ea043&fire=2ea043&currStreakNum=2ea043&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&background=transparent" alt="GitHub Streak" />
   </a>
   <br><br>
   <a href="https://github.com/N-B-K-SARMA">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=N-B-K-SARMA&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=N-B-K-SARMA&layout=compact&theme=dark&title_color=2ea043&text_color=ffffff&icon_color=2ea043&hide_border=true&bg_color=00000000" alt="Top Languages" />
   </a>
 </div>
 
@@ -122,7 +122,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=N-B-K-SARMA&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=N-B-K-SARMA&theme=dark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
