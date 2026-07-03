@@ -1,16 +1,160 @@
-## Hi there 👋
+<div align="center">
+  <img src=".github/images/banner.png" alt="N. Bhaskara Karthikeya Sarma Banner" width="100%">
+  
+  <br><br>
 
-<!--
-**N-B-K-SARMA/N-B-K-SARMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://github.com/N-B-K-SARMA">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=0070F3&center=true&vCenter=true&width=800&lines=Co-Founder+%40+Zyphron;Founder+%40+Sarma+Code+Jagratha;Backend+Developer;Cloud+Infrastructure;Discord+Bot+Developer;Cyber+Security+Student;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <p>Building scalable backend architectures, cloud infrastructure, and modern SaaS platforms.<br>Currently developing <b>Zyphron</b>, educating developers at <b>Sarma Code Jagratha</b>, and engineering <b>ClashOps</b> & <b>Universe RP</b>.</p>
+</div>
+
+<br>
+
+---
+
+## 🏢 Organizations
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>☁️ Zyphron</h3>
+        <p><i>Premium Cloud & SaaS Solutions</i></p>
+        <img src="https://img.shields.io/badge/Enterprise-Ready-0070F3?style=for-the-badge&logo=cloud&logoColor=white" />
+        <p>Modern infrastructure, sleek glassmorphism design, and robust backend engineering for the next generation of scalable applications.</p>
+      </td>
+      <td align="center" width="50%">
+        <h3>🟢 Sarma Code Jagratha (SCJ)</h3>
+        <p><i>Empowering Developer Communities</i></p>
+        <img src="https://img.shields.io/badge/Open_Source-00FF00?style=for-the-badge&logo=github&logoColor=black" />
+        <p>Cyber education, programming resources, and community-driven open source initiatives with a high-tech edge.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/N-B-K-SARMA/ClashOps">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=ClashOps&theme=radical&show_icons=true" alt="ClashOps" />
+  </a>
+  <a href="https://github.com/N-B-K-SARMA/Universe-RP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Universe-RP&theme=radical&show_icons=true" alt="Universe RP" />
+  </a>
+  <br>
+  <a href="https://github.com/N-B-K-SARMA/Zyphron">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Zyphron&theme=radical&show_icons=true" alt="Zyphron" />
+  </a>
+  <a href="https://github.com/N-B-K-SARMA/Sarma-Code-Jagratha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=N-B-K-SARMA&repo=Sarma-Code-Jagratha&theme=radical&show_icons=true" alt="SCJ" />
+  </a>
+</div>
+
+<br>
+
+## ⚙️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,python,javascript,react,nextjs,html,css&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,nginx,linux,ubuntu&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,sqlite&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,discord,bash,powershell&perline=8" />
+</div>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N-B-K-SARMA&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-B-K-SARMA&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=N-B-K-SARMA&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=N-B-K-SARMA&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<br>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N-B-K-SARMA/N-B-K-SARMA/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-B-K-SARMA/N-B-K-SARMA/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N-B-K-SARMA/N-B-K-SARMA/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+## 📈 Development Metrics
+
+<!--START_SECTION:waka-->
+*WakaTime metrics will be displayed here.*
+<!--END_SECTION:waka-->
+
+<br>
+
+## ⚡ Latest GitHub Activity
+
+<!--START_SECTION:activity-->
+*Latest activity will be displayed here.*
+<!--END_SECTION:activity-->
+
+<br>
+
+## 🎯 Current Focus
+
+<div align="center">
+  <table>
+    <tr>
+      <td>🏗️ Building <b>Zyphron</b></td>
+      <td>🌱 Growing <b>Sarma Code Jagratha</b></td>
+    </tr>
+    <tr>
+      <td>⚔️ Developing <b>ClashOps</b></td>
+      <td>🌌 Building <b>Universe RP</b></td>
+    </tr>
+    <tr>
+      <td>☁️ Learning <b>Cloud Infrastructure</b></td>
+      <td>🚀 Learning <b>DevOps</b></td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="https://github.com/N-B-K-SARMA"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=N-B-K-SARMA&label=Profile%20Views&color=0070F3&style=for-the-badge" alt="Profile Views" />
+</div>
