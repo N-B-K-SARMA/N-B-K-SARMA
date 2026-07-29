@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <p>Building scalable backend architectures, cloud infrastructure, and modern SaaS platforms.<br>Currently developing <b>Zyphron</b>, educating developers at <b>Sarma Code Jagratha</b>, and engineering <b>ClashOps</b> & <b>Universe RP</b>.</p>
+  <p>Building scalable backend architectures, cloud infrastructure, and modern SaaS platforms.<br>Currently developing <b>Zyphron</b>, educating developers at <b>Sarma Code Jagratha</b>, and engineering <b>ClashOps</b> & <b> RP</b>.</p>
 </div>
 
 <br>
@@ -80,7 +80,7 @@
       </td>
       <td align="center" width="50%" valign="top">
         <br>
-        <h3>🌌 Universe RP</h3>
+        <h3>🌌  RP</h3>
         <p><i>Advanced roleplay framework and systems.</i></p>
         <br>
         <a href="https://github.com/N-B-K-SARMA">
@@ -220,7 +220,7 @@ INI           7 hrs 27 mins         >------------------------   04.72 %
       </td>
       <td align="center" width="50%" valign="top">
         <br>
-        🌌 Building <b>Universe RP</b>
+        🌌 Building <b> RP</b>
         <br><br>
       </td>
     </tr>
