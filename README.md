@@ -192,6 +192,9 @@ INI           11 hrs 34 mins        >------------------------   05.65 %
 <h2 align="center">⚡ Latest GitHub Activity</h2>
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/N-B-K-SARMA/test/pull/2) in [N-B-K-SARMA/test](https://github.com/N-B-K-SARMA/test)
+2. 💪 Opened PR [#2](https://github.com/N-B-K-SARMA/test/pull/2) in [N-B-K-SARMA/test](https://github.com/N-B-K-SARMA/test)
+3. 💪 Opened PR [#1](https://github.com/N-B-K-SARMA/test/pull/1) in [N-B-K-SARMA/test](https://github.com/N-B-K-SARMA/test)
 <!--END_SECTION:activity-->
 
 <br>
