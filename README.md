@@ -174,15 +174,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2026 - To: 14 September 2026
+From: 22 May 2026 - To: 15 September 2026
 
-Total Time: 252 hrs 33 mins
+Total Time: 257 hrs 12 mins
 
-Lua             93 hrs 53 mins        >>>>>>>>>----------------   35.29 %
-TypeScript      49 hrs 42 mins        >>>>>--------------------   18.68 %
-Markdown        47 hrs 28 mins        >>>>---------------------   17.84 %
-JavaScript      21 hrs 32 mins        >>-----------------------   08.10 %
-INI             14 hrs 26 mins        >------------------------   05.43 %
+Lua             97 hrs 55 mins        >>>>>>>>>----------------   36.17 %
+TypeScript      49 hrs 42 mins        >>>>>--------------------   18.36 %
+Markdown        47 hrs 28 mins        >>>>---------------------   17.54 %
+JavaScript      21 hrs 32 mins        >>-----------------------   07.96 %
+INI             14 hrs 44 mins        >------------------------   05.45 %
 ```
 
 <!--END_SECTION:waka-->
